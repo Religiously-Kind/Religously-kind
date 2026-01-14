@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Public App</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    src="https://chambersme123.retool.com/embedded/public/88094233-93b6-4c8b-a1d8-48fa446f7b4c"
+    allow="clipboard-read; clipboard-write; fullscreen"
+  ></iframe>
+</body>
+</html>
